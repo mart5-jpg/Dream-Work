@@ -1,4 +1,4 @@
 # Dream-Work
-Markuss - atnemsana
-Astrīda - pluss
+# Markuss - atnemsana
+# Astrīda - pluss
 # Martins - *
